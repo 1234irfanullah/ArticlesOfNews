@@ -50,3 +50,6 @@ object NewsService{
 interface SendLink{
     fun SendTheLinkOfUrl(url:String?)
 }
+interface ClickedItem{
+    fun OpenCustomTab(url: String?)
+}

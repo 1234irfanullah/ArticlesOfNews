@@ -1,0 +1,4 @@
+<resources>
+    <string name="app_name">ArticlesOfNews</string>
+    <string name="BASE_URL">https://newsapi.org/</string>
+</resources>
